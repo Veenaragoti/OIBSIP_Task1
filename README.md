@@ -13,6 +13,6 @@ project link:https://agreeable-dune-0ea192d10.2.azurestaticapps.net
 - &nbsp; Has collection pages like Home,About,Categories and contact
 - &nbsp; We can know about natural spa techniques and theraphies
 
-#### Azure technologies used for project
+### Azure technologies used for project
 static Web app
 web
